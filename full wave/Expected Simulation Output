@@ -1,0 +1,8 @@
+Time = 0  | Vin = -10 | Vout = 10
+Time = 10 | Vin =  -8 | Vout = 8
+Time = 20 | Vin =  -5 | Vout = 5
+Time = 30 | Vin =   0 | Vout = 0
+Time = 40 | Vin =   4 | Vout = 4
+Time = 50 | Vin =   7 | Vout = 7
+Time = 60 | Vin =  10 | Vout = 10
+Time = 70 | Vin =  -6 | Vout = 6
